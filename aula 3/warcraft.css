@@ -1,0 +1,57 @@
+h1 {
+    font-family: monospace;
+    color: green;
+    font-size: 72px;
+    text-align: center;
+    
+}
+h2
+body{
+    background-color: black;
+    margin: 0px;
+}
+{
+    text-align: center;
+    font-size: 50px;
+}
+p
+{
+    font-size:  19px;
+    text-align: center;
+}
+.citacao{font-weight: bold;
+color: green;
+}
+.cabecalho{
+    background-color: #F0F8FF;
+    width: 100%;
+    min-width: 970px;
+    height: 10%;
+    min-height: 80px;
+    
+}
+.menu{ 
+    position: relative;
+    background-color: #7FFF00;
+    width: 15%;
+    min-width: 160px;
+    height: 80%;
+    min-height: 640px;
+    float: left
+}
+.conteudo{
+    position: relative;
+    float: left;
+    background-color: greenyellow;
+    width: 70%;
+    min-width: 650px;
+    height: 80%;
+    min-height: 640;
+    padding: 5px;
+}
+.rodape
+{
+    position: relative;
+    clear: both;
+    background-color: crimson;
+}
